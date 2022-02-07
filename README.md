@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sliptyde
-- 👀 I’m interested in ... C#, C++, C
+- 👀 I’m interested in ... C#, D&D, Hiking
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ...  Open source game projects (Daggerfall Unity)
-- 📫 How to reach me ... On here works.
+- 📫 How to reach me ... Right here.
 
 <!---
 Sliptyde/Sliptyde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
