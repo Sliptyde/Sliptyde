@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sliptyde
 - 👀 I’m interested in ... C#, C++, C
 - 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ...  Open source game projects (Daggerfall Unity, other personal projects)
+- 💞️ I’m looking to collaborate on ...  Open source game projects (Daggerfall Unity)
 - 📫 How to reach me ... On here works.
 
 <!---
